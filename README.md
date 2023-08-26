@@ -10,6 +10,11 @@
     <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white"/>
     <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white"/>
 
+----
+
+
+﻿﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoIntelligence&langs_count=10&layout=compact&theme=white)](https://github.com/ChoIntelligence/ChoIntelligence)
+
 ---
 
 <b> Baekjoon Tier </b>
