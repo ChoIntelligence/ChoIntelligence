@@ -20,3 +20,6 @@
 <b> Baekjoon Tier </b>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=q7011805)](https://solved.ac/q7011805/)
+
+부스트코스 코칭스터디 수료
+<선을 따라 주행하는 아두이노 로봇 프로그래밍> 2023 성북구 진로박람회 부스 개최
