@@ -6,9 +6,7 @@
 **ComputerVision**를 좋아하고 **deeplearning, multi-modal, self-driving** 등 다양한 것에도 관심이 있어요
 
 ![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![js](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![js](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlatjgus0612)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlatjgus0612) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ## Experience 
 
