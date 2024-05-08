@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=ChoIntelligence&animation=fadeIn&fontAlign=80
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=ChoIntelligence&animation=fadeIn&fontAlign=0
 )
 
 **23.02** 졸업하고 이것 저것 경험 중인 CV러 입니다 ~~
