@@ -24,7 +24,7 @@
  - **2023.12** Boostcamp level1 - [Imageclassification](https://github.com/boostcampaitech6/level1-imageclassification-cv-01) 1위
  - **2024.01** Boostcamp level2 - [ObjectDetection](https://github.com/boostcampaitech6/level2-objectdetection-cv-08) 5위
  - **2024.02** Boostcamp level2 - [SemanticSegmentation](https://github.com/boostcampaitech6/level2-cv-semanticsegmentation-cv-08) 8위
- - **2024.02 - 2024.04** Boostcamp level3 - [Final Project - VoiceToFace](https://github.com/boostcampaitech6/level2-3-cv-finalproject-cv-08)
+ - **2024.01 - 2024.02** LG Aimers 4기 - [MQL 데이터 기반 B2B 영업기회 창출 예측 모델 개발]
 
 
 ## Paper Review
