@@ -1,7 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=ChoIntelligence&animation=fadeIn&fontAlign=70
 )
 
-**24.05** 인공지능 대학 교수가 장래희망인 한성대학교 AI응용학과 학부생입니다.
+**24.05** I am interested in extracting features from videos, removing unnecessary parts, and creating new images with only the features remaining. Like applying a high-dimensional chroma key to extract only the necessary parts from a 3D image.
+Additionally, I am interested in the field of image reconstruction and feature extraction after removing noise.
+Currently, I am planning a project that uses an autoencoder to remove unnecessary noise from driving images and reconstruct only important data such as lanes and surrounding objects.
+
 
 **ComputerVision**에 관심 있고 **self-driving** 분야를 연구하고 있습니다.
 
