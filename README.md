@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=ChoIntelligence&animation=fadeIn&fontAlign=70
 )
 
-**23.02** 졸업하고 이것 저것 경험 중인 CV러 입니다 ~~
+**24.05** 인공지능 대학 교수가 장래희망인 한성대학교 AI응용학과 학부생입니다.
 
-**ComputerVision**를 좋아하고 **deeplearning, multi-modal, self-driving** 등 다양한 것에도 관심이 있어요
+**ComputerVision**를 좋아하고 **self-driving** 분야를 연구하고 있습니다.
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -13,7 +13,8 @@
 
 ## Experience 
 
- - **2022.07 - 2022.12** Research Student at Hansung Univ., Korea [REEL](https://sites.google.com/view/hsreelab)
+ - **Apr. 2024 - Present** Trainee at BoostClass : Laying the Foundation for Future AI Engineers, NAVER Connect Foundation, Korea (Apr. 2024 ~ Present) / Enhancing expertise in Data Science through focused learning on structured data analysis, data preprocessing, feature engineering, and Multi-Layer Perceptrons(MLP).
+
  - **2023.05 - 2023.06** Beyond AI Basic Study _ 10th [Coaching Study](https://www.boostcourse.org/study-ai111-2023)
  - **2023.10 - 2024.04** CV AI developer 6th [Naver BoostCamp AI Tech](https://boostcamp.connect.or.kr/program_ai.html)
 
