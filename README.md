@@ -3,7 +3,7 @@
 
 **24.05** 인공지능 대학 교수가 장래희망인 한성대학교 AI응용학과 학부생입니다.
 
-**ComputerVision**를 좋아하고 **self-driving** 분야를 연구하고 있습니다.
+**ComputerVision**에 관심 있고 **self-driving** 분야를 연구하고 있습니다.
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
