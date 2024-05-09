@@ -13,23 +13,18 @@
 
 ## Experience 
 
- - **Apr. 2024 - Present** Trainee at BoostClass : Laying the Foundation for Future AI Engineers, NAVER Connect Foundation, Korea (Apr. 2024 ~ Present) / Enhancing expertise in Data Science through focused learning on structured data analysis, data preprocessing, feature engineering, and Multi-Layer Perceptrons(MLP).
+ - **Apr. 2024 - Present** Trainee at BoostClass : Laying the Foundation for Future AI Engineers, NAVER Connect Foundation, Korea / Enhancing expertise in Data Science through focused learning on structured data analysis, data preprocessing, feature engineering, and Multi-Layer Perceptrons(MLP).
 
- - **2023.05 - 2023.06** Beyond AI Basic Study _ 10th [Coaching Study](https://www.boostcourse.org/study-ai111-2023)
- - **2023.10 - 2024.04** CV AI developer 6th [Naver BoostCamp AI Tech](https://boostcamp.connect.or.kr/program_ai.html)
+ - **Jan. 2024 - Feb. 2024** Trainee at LG Aimers 4th, LG AI, Korea / Acquired comprehensive knowledge in Machine Learning and Deep Learning, and participated in competitions, achieving high rankings.
+
+ - **Oct. 2023 - Nov. 2023** Trainee at BoostCourse Data Science Coaching Study, NAVER Connect Foundation, Korea / Learned the fundamentals of data science with Python, with a focus on techniques for handling tabular data under the guidance of an expert coach.
+
+ - **Oct. 2023** AI Booth Manager at Career Fair, Seongbuk-gu, Korea / Delivered hands-on training in Arduino programming for self-driving robots at a career fair, equipping students with skills in robotics and sensor integration.
+
 
 ## Competitions & Project
- - **2022.03 - 2022.07** 지능시스템 Capstone Design, Hansung Univ., Korea - Object detection , tracking
- - **2022.03 - 2022.07** ICT 엔터테인먼트 Capstone Design, Hansung Univ., Korea - mapping, FPS, UI with Unity
- - **2022.09 - 2022.12** 2022 국방 AI 경진대회 본선 진출  [AI Connect](https://aiconnect.kr/competition/detail/213) - Sementic Segmentation, Denosing
- - **2023.12** Boostcamp level1 - [Imageclassification](https://github.com/boostcampaitech6/level1-imageclassification-cv-01) 1위
- - **2024.01** Boostcamp level2 - [ObjectDetection](https://github.com/boostcampaitech6/level2-objectdetection-cv-08) 5위
- - **2024.02** Boostcamp level2 - [SemanticSegmentation](https://github.com/boostcampaitech6/level2-cv-semanticsegmentation-cv-08) 8위
- - **2024.01 - 2024.02** LG Aimers 4기 - [MQL 데이터 기반 B2B 영업기회 창출 예측 모델 개발]
-
-
-## Paper Review
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=not+yet+^^;)
+ - **Jan. 2024 ~ Feb. 2024** Development of B2B sales opportunity creation prediction model based on MQL data, LG Aimers, LG AI, Korea
+   
 
 ## contact
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1971471@hansung.ac.kr)
