@@ -18,13 +18,17 @@ Currently, I am planning a project that uses an autoencoder to remove unnecessar
 
 ## Experience 
 
- - **Apr. 2024 - Present** Trainee at BoostClass : Laying the Foundation for Future AI Engineers, NAVER Connect Foundation, Korea / Enhancing expertise in Data Science through focused learning on structured data analysis, data preprocessing, feature engineering, and Multi-Layer Perceptrons(MLP).
+ - **Apr. 2024 - Present** Trainee at BoostClass : Laying the Foundation for Future AI Engineers, NAVER Connect Foundation, Korea
+   Enhancing expertise in Data Science through focused learning on structured data analysis, data preprocessing, feature engineering, and Multi-Layer Perceptrons(MLP).
 
- - **Jan. 2024 - Feb. 2024** Trainee at LG Aimers 4th, LG AI, Korea / Acquired comprehensive knowledge in Machine Learning and Deep Learning, and participated in competitions, achieving high rankings.
+ - **Jan. 2024 - Feb. 2024** Trainee at LG Aimers 4th, LG AI, Korea
+   Acquired comprehensive knowledge in Machine Learning and Deep Learning, and participated in competitions, achieving high rankings.
 
- - **Oct. 2023 - Nov. 2023** Trainee at BoostCourse Data Science Coaching Study, NAVER Connect Foundation, Korea / Learned the fundamentals of data science with Python, with a focus on techniques for handling tabular data under the guidance of an expert coach.
+ - **Oct. 2023 - Nov. 2023** Trainee at BoostCourse Data Science Coaching Study, NAVER Connect Foundation, Korea
+   Learned the fundamentals of data science with Python, with a focus on techniques for handling tabular data under the guidance of an expert coach.
 
- - **Oct. 2023** AI Booth Manager at Career Fair, Seongbuk-gu, Korea / Delivered hands-on training in Arduino programming for self-driving robots at a career fair, equipping students with skills in robotics and sensor integration.
+ - **Oct. 2023** AI Booth Manager at Career Fair, Seongbuk-gu, Korea
+   Delivered hands-on training in Arduino programming for self-driving robots at a career fair, equipping students with skills in robotics and sensor integration.
 
 
 ## Competitions & Project
