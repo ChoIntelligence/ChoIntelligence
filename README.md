@@ -26,5 +26,5 @@
  - **Jan. 2024 ~ Feb. 2024** Development of B2B sales opportunity creation prediction model based on MQL data, LG Aimers, LG AI, Korea
    
 
-## contact
+## Contact
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1971471@hansung.ac.kr)
