@@ -39,7 +39,7 @@ Currently, I am planning a project that uses an autoencoder to remove unnecessar
 
  - **Teaching Assistant** in an experiential class utilizing the artificial intelligence robot MOCCA Facilitated the teaching of basic AI principles and machine learning concepts, focusing on image classification and generation tools, using MOCCA as a primary coding education tool.
 
- - **Major coursework at Hansung University** Deep Learning, Computer Vision, AI Programming, Big Data, Python for AI, Mathematics for AI
+ - **Major coursework at Hansung University** Deep Learning, Computer Vision, AI Programming, Big Data, Mathematics for AI
 
 ## Youtube 
  - **Introduction about Denoising AutoEncoder** https://youtu.be/zdTfrXqWGco?si=yaSGUYZgZPfOaERS
