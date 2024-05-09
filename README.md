@@ -44,7 +44,7 @@ Currently, I am planning a project that uses an autoencoder to remove unnecessar
 ## Youtube 
  - **Introduction about Denoising AutoEncoder** https://youtu.be/zdTfrXqWGco?si=yaSGUYZgZPfOaERS
 
- - **Image Classification using Pascal VOC Dataset** https://youtu.be/jt4-u59RZK8
+ - **Image Classification on Pascal VOC Dataset** https://youtu.be/jt4-u59RZK8
 
 ## Contact
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1971471@hansung.ac.kr)
