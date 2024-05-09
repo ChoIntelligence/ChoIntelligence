@@ -1,12 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=ChoIntelligence&animation=fadeIn&fontAlign=70
 )
 
-**24.05** I am interested in extracting features from videos, removing unnecessary parts, and creating new images with only the features remaining. Like applying a high-dimensional chroma key to extract only the necessary parts from a 3D image.
-Additionally, I am interested in the field of image reconstruction and feature extraction after removing noise.
+I am interested in **extracting features from images**, removing unnecessary parts, and creating new images with only the features remaining. Like applying a high-dimensional chroma key to extract only the necessary parts from a 3D image.
+
+Additionally, I am interested in the field of **image reconstruction and feature extraction** after removing noise.
+
 Currently, I am planning a project that uses an autoencoder to remove unnecessary noise from driving images and reconstruct only important data such as lanes and surrounding objects.
 
 
-**ComputerVision**에 관심 있고 **self-driving** 분야를 연구하고 있습니다.
+**ComputerVision** through **self-driving**
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -27,7 +29,18 @@ Currently, I am planning a project that uses an autoencoder to remove unnecessar
 
 ## Competitions & Project
  - **Jan. 2024 ~ Feb. 2024** Development of B2B sales opportunity creation prediction model based on MQL data, LG Aimers, LG AI, Korea
-   
+
+## Relavant Activities
+ - **Research on improving deep learning AutoEncoder performance** Conducted research focused on enhancing the performance of deep learning AutoEncoders, with an emphasis on optimizing noise reduction and data recovery techniques.
+
+ - **Teaching Assistant** in an experiential class utilizing the artificial intelligence robot MOCCA Facilitated the teaching of basic AI principles and machine learning concepts, focusing on image classification and generation tools, using MOCCA as a primary coding education tool.
+
+ - **Major coursework at Hansung University** Deep Learning, Computer Vision, AI Programming, Big Data, Python for AI, Mathematics for AI
+
+## Youtube 
+ - **Introduction about Denoising AutoEncoder** https://youtu.be/zdTfrXqWGco?si=yaSGUYZgZPfOaERS
+
+ - **Image Classification using Pascal VOC Dataset** https://youtu.be/jt4-u59RZK8
 
 ## Contact
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1971471@hansung.ac.kr)
