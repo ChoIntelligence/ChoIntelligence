@@ -18,7 +18,7 @@ Currently, I am planning a project that uses an autoencoder to remove unnecessar
 
 ## Experience 
 
- - **Apr. 2024 - Present** Trainee at BoostClass : Laying the Foundation for Future AI Engineers, NAVER Connect Foundation, Korea
+ - **Apr. 2024 - Jun. 2024** Trainee at BoostClass : Laying the Foundation for Future AI Engineers, NAVER Connect Foundation, Korea
    Enhancing expertise in Data Science through focused learning on structured data analysis, data preprocessing, feature engineering, and Multi-Layer Perceptrons(MLP).
 
  - **Jan. 2024 - Feb. 2024** Trainee at LG Aimers 4th, LG AI, Korea
@@ -32,6 +32,7 @@ Currently, I am planning a project that uses an autoencoder to remove unnecessar
 
 
 ## Competitions & Project
+ - **May. 2024 ~ Jun. 2024** Bitcoin Price Prediction Contest(1st place), DACON, Korea
  - **Jan. 2024 ~ Feb. 2024** Development of B2B sales opportunity creation prediction model based on MQL data, LG Aimers, LG AI, Korea
 
 ## Relavant Activities
