@@ -43,6 +43,10 @@ Currently, I am planning a project that uses an autoencoder to remove unnecessar
  - **Major coursework at Hansung University** Deep Learning, Computer Vision, AI Programming, Big Data, Mathematics for AI
 
 ## Youtube 
+ - **Introduction about Variational AutoEncoder** https://youtu.be/NQVYCun1j34
+
+ - **Real-time driving data analysis (Using OpenCV with YOLOv3-Tiny)** https://youtu.be/G-sID5PqVCs
+
  - **Introduction about Denoising AutoEncoder** https://youtu.be/zdTfrXqWGco?si=yaSGUYZgZPfOaERS
 
  - **Image Classification on Pascal VOC Dataset** https://youtu.be/jt4-u59RZK8
