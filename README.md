@@ -39,7 +39,7 @@ Currently, I am planning a project that uses an autoencoder to remove unnecessar
 
  - **May. 2024 ~ Jun. 2024** Bitcoin Price Prediction Contest(1st place), DACON, Korea
 
- - **Jan. 2024 ~ Feb. 2024** Development of B2B sales opportunity creation prediction model based on MQL data, LG Aimers, LG AI, Korea
+ - **Jan. 2024 ~ Feb. 2024** Development of sales opportunity creation prediction model based on MQL data, LG Aimers, LG AI, Korea
 
 ## Relavant Activities
  - **Research on improving deep learning AutoEncoder performance** Conducted research focused on enhancing the performance of deep learning AutoEncoders, with an emphasis on optimizing noise reduction and data recovery techniques.
