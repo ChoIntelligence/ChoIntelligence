@@ -18,6 +18,10 @@ Currently, I am planning a project that uses an autoencoder to remove unnecessar
 
 ## Experience 
 
+ - **July. 2024 - Present** Trainee at Google for Developers Machine Learning Bootcamp 5th, Google, Korea
+
+ - **July. 2024 - Present** Research Assistant at PILab, CAU, Korea
+
  - **Apr. 2024 - Jun. 2024** Trainee at BoostClass : Laying the Foundation for Future AI Engineers, NAVER Connect Foundation, Korea
    Enhancing expertise in Data Science through focused learning on structured data analysis, data preprocessing, feature engineering, and Multi-Layer Perceptrons(MLP).
 
@@ -32,7 +36,9 @@ Currently, I am planning a project that uses an autoencoder to remove unnecessar
 
 
 ## Competitions & Project
+
  - **May. 2024 ~ Jun. 2024** Bitcoin Price Prediction Contest(1st place), DACON, Korea
+
  - **Jan. 2024 ~ Feb. 2024** Development of B2B sales opportunity creation prediction model based on MQL data, LG Aimers, LG AI, Korea
 
 ## Relavant Activities
@@ -43,6 +49,7 @@ Currently, I am planning a project that uses an autoencoder to remove unnecessar
  - **Major coursework at Hansung University** Deep Learning, Computer Vision, AI Programming, Big Data, Mathematics for AI
 
 ## Youtube 
+
  - **Introduction about Variational AutoEncoder** https://youtu.be/NQVYCun1j34
 
  - **Real-time driving data analysis (Using OpenCV with YOLOv3-Tiny)** https://youtu.be/G-sID5PqVCs
