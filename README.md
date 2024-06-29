@@ -5,7 +5,7 @@ I am interested in **extracting features from images**, removing unnecessary par
 
 Additionally, I am interested in the field of **image reconstruction and feature extraction** after removing noise.
 
-Currently, I am planning a project that uses an autoencoder to remove unnecessary noise from driving images and reconstruct only important data such as lanes and surrounding objects.
+Currently, I am planning a project that uses an variational autoencoder to remove unnecessary noise from driving images and reconstruct only important data such as lanes and surrounding objects.
 
 
 **ComputerVision** through **self-driving**
