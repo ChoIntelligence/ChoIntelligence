@@ -22,7 +22,7 @@ Currently, I am planning a project that uses an autoencoder to remove unnecessar
 
  - **July. 2024 - Present** Research Assistant at [PILab](https://sites.google.com/view/pilab), CAU, Korea
 
- - **Apr. 2024 - Jun. 2024** Trainee at BoostClass : Laying the Foundation for Future AI Engineers, NAVER Connect Foundation, Korea
+ - **Apr. 2024 - Jun. 2024** Trainee at BoostClass : [Laying the Foundation for Future AI Engineers](https://m.boostcourse.org/boostclass-aibasic-02-202404/intro), NAVER Connect Foundation, Korea
    Enhancing expertise in Data Science through focused learning on structured data analysis, data preprocessing, feature engineering, and Multi-Layer Perceptrons(MLP).
 
  - **Jan. 2024 - Feb. 2024** Trainee at [LG Aimers](https://www.lgaimers.ai) 4th, LG AI, Korea
