@@ -18,20 +18,20 @@ Currently, I am planning a project that uses an autoencoder to remove unnecessar
 
 ## Experience 
 
- - **July. 2024 - Present** Trainee at Google for Developers Machine Learning Bootcamp 5th, Google, Korea
+ - **July. 2024 - Present** Trainee at [Google for Developers Machine Learning Bootcamp](https://rsvp.withgoogle.com/events/google-machine-learning-bootcamp-kr-2024) 5th, Google, Korea
 
- - **July. 2024 - Present** Research Assistant at PILab, CAU, Korea
+ - **July. 2024 - Present** Research Assistant at [PILab](https://sites.google.com/view/pilab), CAU, Korea
 
  - **Apr. 2024 - Jun. 2024** Trainee at BoostClass : Laying the Foundation for Future AI Engineers, NAVER Connect Foundation, Korea
    Enhancing expertise in Data Science through focused learning on structured data analysis, data preprocessing, feature engineering, and Multi-Layer Perceptrons(MLP).
 
- - **Jan. 2024 - Feb. 2024** Trainee at LG Aimers 4th, LG AI, Korea
+ - **Jan. 2024 - Feb. 2024** Trainee at [LG Aimers](https://www.lgaimers.ai) 4th, LG AI, Korea
    Acquired comprehensive knowledge in Machine Learning and Deep Learning, and participated in competitions, achieving high rankings.
 
- - **Oct. 2023 - Nov. 2023** Trainee at BoostCourse Data Science Coaching Study, NAVER Connect Foundation, Korea
+ - **Oct. 2023 - Nov. 2023** Trainee at [BoostCourse Data Science Coaching Study](https://m.boostcourse.org/study-ds112-2023/intro), NAVER Connect Foundation, Korea
    Learned the fundamentals of data science with Python, with a focus on techniques for handling tabular data under the guidance of an expert coach.
 
- - **Oct. 2023** AI Booth Manager at Career Fair, Seongbuk-gu, Korea
+ - **Oct. 2023** AI Booth Manager at [Career Fair](http://www.nwtnews.co.kr/news/articleView.html?idxno=112440), Seongbuk-gu, Korea
    Delivered hands-on training in Arduino programming for self-driving robots at a career fair, equipping students with skills in robotics and sensor integration.
 
 
