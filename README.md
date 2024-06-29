@@ -37,7 +37,7 @@ Currently, I am planning a project that uses an autoencoder to remove unnecessar
 
 ## Competitions & Project
 
- - **May. 2024 ~ Jun. 2024** Bitcoin Price Prediction Contest(1st place), DACON, Korea
+ - **May. 2024 ~ Jun. 2024** Bitcoin Price Prediction Contest([1st place](https://dacon.io/competitions/official/236264/leaderboard)), DACON, Korea
 
  - **Jan. 2024 ~ Feb. 2024** Development of sales opportunity creation prediction model based on MQL data, LG Aimers, LG AI, Korea
 
